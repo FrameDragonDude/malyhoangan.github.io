@@ -5,8 +5,8 @@
 }
 
 html {
-    background-color: #eee;
-    color: #555;
+    background-color: #d3d3d3;
+    color: #333;
     font-family: 'Lato', 'Arial', sans-serif;
     font-weight: 400;
     font-size: 20px;
@@ -258,14 +258,4 @@ h3 {
     background: #42a8c0;
     height: 100%;
 }
-
-body {
-    background-color: #d3d3d3;
-}
-
-.sidebar {
-    background-color: #b0b0b0;
-}
-
-
 
