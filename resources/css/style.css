@@ -5,7 +5,7 @@
 }
 
 html {
-    background-color: #ffffff;
+    background-color: #32CD32;
     color: #333;
     font-family: 'Lato', 'Arial', sans-serif;
     font-weight: 400;
@@ -34,13 +34,13 @@ html {
 }
 
 .personal {
-    background-color: #FFD700;
+    background-color: #32CD32;
     margin: 0;
     height: 100%;
 }
 
 .personal-header {
-    background-color: #FFD700;
+    background-color: #32CD32;
     padding: 30px 0;
 }
 
@@ -64,14 +64,14 @@ h2 {
     font-size: 100%;
     font-weight: 700;
     text-transform: uppercase;
-    color: #42a8c0;
+    color: #32CD32;
     display: inline-block;
     margin-left: 5px;
 }
 
 .personal-header p {
     font-size: 80%;
-    color: #FFD700;;
+    color: #32CD32;
     margin: 5px auto;
     text-align: center;
 }
@@ -90,8 +90,8 @@ h2 {
 
 .main-heading ion-icon {
     display: inline-block;
-    background-color: #42a8c0;
-    border: 2px solid #42a8c0;
+    background-color: #32CD32;
+    border: 2px solid #32CD32;
     border-radius: 50%;
     color: white;
     padding: 2px;
@@ -153,7 +153,7 @@ h3 {
 
 .personal-ed-bold span {
     font-weight: 400;
-    color: rgba(255, 255, 255, 0.8);
+    color: #32CD32;
 }
 
 
@@ -256,7 +256,7 @@ h3 {
 }
 
 .skill-fg {
-    background: #42a8c0;
+    background: #32CD32;
     height: 100%;
 }
 
