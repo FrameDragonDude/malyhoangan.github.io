@@ -5,7 +5,7 @@
 }
 
 html {
-    background-color: #d3d3d3;
+    background-color: #ffffff;
     color: #333;
     font-family: 'Lato', 'Arial', sans-serif;
     font-weight: 400;
@@ -34,12 +34,13 @@ html {
 }
 
 .personal {
+    background-color: #FFD700;
     margin: 0;
     height: 100%;
 }
 
 .personal-header {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: #FFD700;
     padding: 30px 0;
 }
 
@@ -70,7 +71,7 @@ h2 {
 
 .personal-header p {
     font-size: 80%;
-    color: rgba(255, 255, 255, 0.8);
+    color: #FFD700;;
     margin: 5px auto;
     text-align: center;
 }
